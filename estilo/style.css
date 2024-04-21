@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*
+PALeTA de COREs:
+COR01 = 136A94
+COR02 = 318FBD
+COR03 = 59BEEE
+COR04 = 0D4058
+COR05 = 06171F
+*/
+
+body {
+    background-color: #136A94;
+}
+
+header h1 {
+    text-align: center;
+    color: cornsilk;
+}
